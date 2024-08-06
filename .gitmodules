@@ -7,3 +7,6 @@
 [submodule "foundry-airdrop/lib/murky"]
 	path = foundry-airdrop/lib/murky
 	url = https://github.com/dmfxyz/murky
+[submodule "foundry-airdrop/lib/foundry-devops"]
+	path = foundry-airdrop/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
